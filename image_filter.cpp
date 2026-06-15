@@ -1,10 +1,3 @@
-// File: CS112_A3_Part2B_S21-S22_20230078_20230713_20230735.cpp
-// Purpose: Simple image processing application that allows users to load, apply various filters (grayscale conversion, invert, darken/lighten, rotate, black and white, flip, resize, crop, blur, adding frame, merge, edges detect, purple, infrared, sunlight), and save images.
-// Authors: Eyad Yossri (20230078) (S22) - Mohamed Abdulmajeed (20230713) (S21) - Mohamed Elmugtaba (20230735) (S21)
-// ID1: 20230078 – Filter 1 (Grayscale) & Filter 4 (Merge) & Filter 7 (Darken and Lighten) & Filter 10 (Edges Detect) & Filter 16 (Purple) & all menus in the program
-// ID3: 20230713 – Filter 2 (Black and White) & Filter 5 (Flip) & Filter 8 (Crop) & Filter 11 (Resize) & Filter 13 (Sunlight)
-// ID2: 20230735 – Filter 3 (Invert Image) & Filter 6 (Rotate Image) & Filter 9 (Adding Frame) & Filter 12 (Blur) & Filter 17 (Infrared)
-
 #include <iostream>
 #include <string>
 #include <fstream>
